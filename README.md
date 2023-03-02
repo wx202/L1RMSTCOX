@@ -10,4 +10,4 @@ Quantifying and interpreting the prediction accuracy of models for the survival 
 
 Reference
 
-"Quantifying and Interpreting the Prediction Accuracy of Models for the Time of a Cardiovascular Event-Moving Beyond C Statistic: A Review" DOI: 10.1001/jamacardio.2022.5279 
+Quantifying and Interpreting the Prediction Accuracy of Models for the Time of a Cardiovascular Event-Moving Beyond C Statistic: A Review. DOI: 10.1001/jamacardio.2022.5279 
