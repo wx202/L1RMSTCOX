@@ -7,6 +7,8 @@ Quantifying and interpreting the prediction accuracy of models for the survival 
 
 (3) Calculate MAD using the “inverse probability of censoring weighting” (IPCW) technique.
 
+There are two version of codes. One version uses the same data to build Cox model, estimate RMST, and caculate MAD.
+The other cross-validated version splits the dataset into two halves of equal sample size, uses one subset to build Cox model, and uses the other subset to estimate RMST and calculate MAD. 
 
 Reference
 
